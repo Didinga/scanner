@@ -17,12 +17,18 @@ Uses `scanme.nmap.org` — a legal, public server designed for testing.
 Do NOT use on targets you don't own or have permission to scan.
 
 ## Output preview
-╔══════════════════════════════════════╗
-║         DARK SCANNER v1.0            ║
-║         Not just code. A mindset.    ║
-╚══════════════════════════════════════╝
-[+] Port    80  →  OPEN   ✓
-[-] Port    22  →  closed
+
+DARK SCANNER v1.0
+Not just code. A mindset.
+
+  [*] Target  : scanme.nmap.org
+  [*] Ports   : 6 selected
+
+  [+] Port    80  →  OPEN   ✓
+  [-] Port    22  →  closed
+  [-] Port    21  →  closed
+
+  [✓] Scan complete.
 
 ## ⚠️ Disclaimer
 
